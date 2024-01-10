@@ -1,0 +1,39 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    height: 100px;
+    display: none;
+}
+#head-container{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#btn-Container{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-1{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    background: #0e7892;
+    color: #fff;
+    margin: 10px;
+}
+#no{
+    position: relative;
+    
+}
